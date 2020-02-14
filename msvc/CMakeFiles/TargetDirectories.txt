@@ -1,0 +1,12 @@
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/CMakeFiles/ALL_BUILD.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/Half/CMakeFiles/Half.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/HalfTest/CMakeFiles/HalfTest.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/Iex/CMakeFiles/Iex.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/IexMath/CMakeFiles/IexMath.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/IexTest/CMakeFiles/IexTest.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/IlmThread/CMakeFiles/IlmThread.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/Imath/CMakeFiles/Imath.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/ImathTest/CMakeFiles/ImathTest.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/CMakeFiles/ZERO_CHECK.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/Half/CMakeFiles/eLut.dir
+D:/Development/op3d_active/ilmbase-2.1.0/msvc/Half/CMakeFiles/toFloat.dir
